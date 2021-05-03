@@ -1,3 +1,5 @@
+# Part of the Python 3 Complete Bootcamp Master Course:  Build 15+ Projects and Games on StackSkills
+
 # What to do:  make a basic python dice simulator that can be used in the terminal (no graphics required)
 # Algorithm
 # 1. Make dice
